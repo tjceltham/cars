@@ -4,14 +4,14 @@ using System.Text;
 
 namespace ConsoleApp16
 {
-    class Vechile
+    class Vehcile
     {
         private string driver;
-        private int amountDoors;;
+        private int amountDoors;
         private Boolean drive;
         private string reg;
    
-       public Vechile(string d, int aD)
+       public Vehcile(string d, int aD)
         {
             driver = d;
             amountDoors = aD;

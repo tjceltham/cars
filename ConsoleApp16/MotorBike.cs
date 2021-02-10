@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ConsoleApp16
 {
-    class MotorBike : Vechile : base()
+    class MotorBike 
     {
 
 

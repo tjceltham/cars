@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ConsoleApp16
 {
-    class Car : Vechile
+    class Car : Vehcile
     {
        
         private string wheel;

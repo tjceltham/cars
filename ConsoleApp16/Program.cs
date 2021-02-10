@@ -8,8 +8,8 @@ namespace ConsoleApp16
         {
             Console.WriteLine("Hello World!");
 
-            Vechile vechile = new Vechile("James",3);
-            Car c = new Car(5,"SAm", "Big wheel")
+            Vehcile vechile = new Vehcile("James",3);
+            Car c = new Car(5, "SAm", "Big wheel");
 
 
         }
